@@ -1,4 +1,4 @@
-from Ipython.display import clear_output
+from IPython.display import clear_output
 class drivers():
     def __init__(self,tag):
         self.tag=tag
